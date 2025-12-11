@@ -52,4 +52,4 @@ jobs:
           app-name: 'lifesharefp0110pf'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20A38D4890C848D1A9D0AEBE0A386746 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA3E356BDA7842FA926991F7274BEE93 }}
