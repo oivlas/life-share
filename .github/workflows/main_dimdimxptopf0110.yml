@@ -52,4 +52,4 @@ jobs:
           app-name: 'dimdimxptopf0110'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F5916872C414D39A39936FE0630BE8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F1858EB4237429CBCE9CD6FF14A6998 }}
